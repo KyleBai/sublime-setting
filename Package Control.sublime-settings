@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Emmet",
+		"Git",
+		"Package Control",
+		"Sass",
+		"Solarized Color Scheme",
+		"SyncedSideBar",
+		"Theme - Brogrammer"
+	]
+}
