@@ -6,11 +6,18 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketGuard",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
 		"Emmet",
 		"Git",
+		"jQuery",
+		"JsFormat",
+		"LESS",
 		"Package Control",
 		"Sass",
-		"Solarized Color Scheme",
 		"SyncedSideBar",
 		"Theme - Brogrammer"
 	]
